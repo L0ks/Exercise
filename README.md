@@ -9,4 +9,4 @@ To run the unit tests, created to verify the functionality of the components nee
 
 To run unit tests separately use one of the following commands
  - mvn test -Dtest=CreditCardMethodTest
- - 
+ - mvn test -Dtest=PalindromeMethodTest
